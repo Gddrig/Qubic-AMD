@@ -14,6 +14,9 @@ cd /opt/rocm/lib && wget https://github.com/Gddrig/Qubic-AMD/releases/download/3
 **Si erreur Glib :**
 apt update && apt upgrade && echo "deb http://cz.archive.ubuntu.com/ubuntu jammy main" >> /etc/apt/sources.list && apt update && apt install tmux -y && apt install libc6 -y
 
+**Si erreur Glibcxx :**
+apt install g++
+
 ![alt text](https://github.com/Gddrig/Qubic-AMD/blob/main/Capture.PNG)
 
 Basé sur le travail de **ViporLab** : [https://downloads.viporlab.net/#/](url)
