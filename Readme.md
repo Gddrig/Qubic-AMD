@@ -19,4 +19,4 @@ apt install g++-11
 
 ![alt text](https://github.com/Gddrig/Qubic-AMD/blob/main/Capture.PNG)
 
-Basé sur le travail de **ViporLab** : [https://downloads.viporlab.net/#/](url)
+Basé sur le travail de **ViporLab** : https://downloads.viporlab.net/#/
