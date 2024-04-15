@@ -1,4 +1,4 @@
-**!! TUTO RQINER 0.4.0 ( EPOCH 104)  for AMD GPU !!** ( AMD RX série 6000 et 7000 )
+**!! TUTO RQINER 0.4.1 ( EPOCH 104)  for AMD GPU !!** ( AMD RX série 6000 et 7000 )
 **!! For HiveOs 6.1 !!**
 
 **Update your system :**
@@ -33,3 +33,6 @@ apt install g++-11
 ![alt text](https://github.com/Gddrig/Qubic-AMD/blob/main/Capture.PNG)
 
 Based on the work of  **ViporLab** : https://downloads.viporlab.net/#/
+
+
+To support my work, Qubic : CZBJCMAWKIBLEHVJPAWERRNVKKNAXUSPMJIYZXCKYCGJSWNMUGCJPLCEEGKE
