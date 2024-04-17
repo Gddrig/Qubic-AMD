@@ -1,5 +1,5 @@
 
-# Repo outdated, please go [here](https://github.com/Gddrig/Qubic_Hiveos)
+# Repo outdated, please go [here](https://github.com/Gddrig/Qubic_Hiveos) (https://github.com/Gddrig/Qubic_Hiveos)
 
 **!! TUTO RQINER 0.4.1 ( EPOCH 104)  for AMD GPU !!** ( AMD RX série 6000 et 7000 )
 **!! For HiveOs 6.1 !!**
